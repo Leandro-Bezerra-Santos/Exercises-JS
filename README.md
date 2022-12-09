@@ -21,4 +21,4 @@
 
 5 - [ X ] Crie uma função que receba dois números e retorne se o primeiro é maior ou igual ao segundo.
 
-6 - [  ] Crie um  objeto User que retorne o seguinte conteúdo: O usuário mora em São Paulo / SP, no bairro Jardim Campa, na Av do CPA, nº 13243. E faça uma desestruturação dessa váriavel retornando a cidade e o bairro;
+6 - [ X ] Crie um  objeto User que retorne o seguinte conteúdo: O usuário mora em São Paulo / SP, no bairro Jardim Campa, na Av do CPA, nº 13243. E faça uma desestruturação dessa váriavel retornando a cidade e o bairro;
