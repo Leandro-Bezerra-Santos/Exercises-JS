@@ -1,10 +1,16 @@
 <h1><strong>Exercicíos-JS</strong></h1>
-<h3>Exercicíos para você melhorar as suas habilidades tecnicas em javascript! esses desafios podem ser resolvidos nem uma linguagem de sua preferência.
+<p>Exercicíos para você melhorar as suas habilidades tecnicas em javascript! esses desafios podem ser resolvidos nem uma linguagem de sua preferência.
 
-<strong></strong></h3>
+<strong>Se você está iniciando os exercícios são para elevar o seu nível, então conforme você for concluíndo os desafios vai aparecendos algumas coisas novas pra você ir pesquisando e para que você possa elevar o seu nível na programação.</strong></p>
 
 ```
     OBS: Para ver os execicíos em execução basta abrir o console do index.html
+```
+
+## Clonando repoditório:
+
+```
+git clone https://github.com/Leandro-Bezerra-Santos/Exercises-JS.git
 ```
 
 ---
